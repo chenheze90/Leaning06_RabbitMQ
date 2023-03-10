@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ET9i46o4E+M0BfinCIqF4P98e8163x1TrMdqC9NvPGhvduxfzdPRUEqSys3uK0ejfxh8QSfaoBw8ogmsPahF4Q==",
+  "dgSpecHash": "4Na7CuMTk1ofFuTW1PNUcHdDyv4WjMEUASooq31Px9ScRIVwzUcAbZ2vxq05vpV2TRuK7Ow7IXe2fatSPJtyMw==",
   "success": true,
-  "projectFilePath": "E:\\WorkSpaceGit\\L06_RabbitMQ\\RabbitMQTest\\RabbitMQTest.csproj",
+  "projectFilePath": "E:\\WorkSpaceGit\\Leaning06_RabbitMQ\\RabbitMQTest\\RabbitMQTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a1412\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\a1412\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RabbitMQTest
-build_property.ProjectDir = E:\WorkSpaceGit\L06_RabbitMQ\RabbitMQTest\
+build_property.ProjectDir = E:\WorkSpaceGit\Leaning06_RabbitMQ\RabbitMQTest\

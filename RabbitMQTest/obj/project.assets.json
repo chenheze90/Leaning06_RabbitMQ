@@ -258,11 +258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkSpaceGit\\L06_RabbitMQ\\RabbitMQTest\\RabbitMQTest.csproj",
+      "projectUniqueName": "E:\\WorkSpaceGit\\Leaning06_RabbitMQ\\RabbitMQTest\\RabbitMQTest.csproj",
       "projectName": "RabbitMQTest",
-      "projectPath": "E:\\WorkSpaceGit\\L06_RabbitMQ\\RabbitMQTest\\RabbitMQTest.csproj",
+      "projectPath": "E:\\WorkSpaceGit\\Leaning06_RabbitMQ\\RabbitMQTest\\RabbitMQTest.csproj",
       "packagesPath": "C:\\Users\\a1412\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkSpaceGit\\L06_RabbitMQ\\RabbitMQTest\\obj\\",
+      "outputPath": "E:\\WorkSpaceGit\\Leaning06_RabbitMQ\\RabbitMQTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -340,7 +340,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
